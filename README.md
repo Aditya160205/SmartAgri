@@ -122,9 +122,8 @@ Each model is deployed separately for better scalability and performance.
 
 **Aditya Singh** 🎓 B.Tech CSE AI & ML Enthusiast
 
-- 🔗 GitHub: https://github.com/rajsirohi23
-- 🔗 LinkedIn: *(https://www.linkedin.com/in/raj-sirohi-64b330289/)*
-
+- 🔗 GitHub: https://github.com/Aditya160205
+- 🔗 LinkedIn: *(https://www.linkedin.com/in/adityasingh1602)*
 ---
 
 ## 💡 Future Improvements
